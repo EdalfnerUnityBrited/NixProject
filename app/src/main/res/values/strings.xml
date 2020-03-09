@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PantallaInicial</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+</resources>
